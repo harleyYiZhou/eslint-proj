@@ -18,6 +18,7 @@ export default {
     return {
       haha: '',
       bigArea: [],
+      privince: '',
     };
   },
   methods: {
